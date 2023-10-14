@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "qitong.pptx", title: "CV"}
+  - {url: "https://github.com/zqt0101/qzhao.github.io/blob/58c5252414118763427dc89e7b5f5c0b9e4cdbe5/qitong.pdf", title: "CV"}
   - {file: "previous_work.pdf", title: "Previous Work"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
