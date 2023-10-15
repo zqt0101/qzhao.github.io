@@ -13,3 +13,5 @@ In the course methods in computational science, I and my classmate finished the 
 
 
 [Slides Link](https://github.com/zqt0101/qzhao.github.io/raw/master/Max Zhao, Qitong Zhao.pptx)
+[Academic Report Link](https://github.com/zqt0101/qzhao.github.io/raw/master/Report_Max&Qitong Zhao.pdf)
+[Codes](https://github.com/zqt0101/qzhao.github.io/raw/master/Max Zhao, Qitong Zhao.ipynb)
