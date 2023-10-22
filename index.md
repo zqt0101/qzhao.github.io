@@ -4,7 +4,6 @@ title: ""
 ---
 
 ![Personal Photo](assets/IMG_6610.JPG)
-
 (A picture taken in Huitengxile Grassland in the North of China)
 
 I am a graduate student who is pursuing the master degree of Applied Mathematics at Columbia University in the City of New York. I took my undergraduate study (Class of 2022) with mathematics major at University of California, Santa Barbara. 
