@@ -14,4 +14,4 @@ In the course methods in computational science, I and my classmate finished the 
 
 [Academic Report Link](https://github.com/zqt0101/qzhao.github.io/raw/master/Report_Max&Qitong Zhao.pdf)
 
-[Codes](https://github.com/zqt0101/qzhao.github.io/raw/master/Codes.html)
+[Codes](https://github.com/zqt0101/qzhao.github.io/raw/master/codes.ipynb)
