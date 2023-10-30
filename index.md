@@ -4,7 +4,7 @@ title: ""
 ---
 
 ![Personal Photo](assets/IMG_6610.JPG)
-(A picture taken by my father in Huitengxile Grassland in the North of China)
+(A picture taken in Huitengxile Grassland in the North of China)
 
 
 
