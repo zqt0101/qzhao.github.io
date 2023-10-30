@@ -1,5 +1,5 @@
 ---
-title:  "Preconditioning Sparse Matrix with Alternating and Multiplicative Operator Splitting"
+title:  "A Machine Learning Driven Approach on Evaluating Second-hand House Price, Heterogeneity Test, and Optimization Path"
 mathjax: true
 layout: post
 categories:
